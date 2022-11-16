@@ -29,7 +29,7 @@ const items = [
     title: "食事箋管理",
   },
   {
-    href: "/account",
+    href: "/adminAccount",
     icon: <UserIcon fontSize="small" />,
     title: "管理者管理",
   },
